@@ -39,7 +39,8 @@ Step 1 : Install Kernel `apt install pve-kernel-5.15` (If You In Iran I Suggest 
 
 Step 2 : Install Libs `apt install proxmox-ve postfix open-iscsi` 
 
-![Uploading image.png…]()
+![image](https://github.com/RadinPirouz/Proxmox-Setup/assets/75082987/205a700d-da1d-4bac-b895-026db7732323)
+
 
 
 Done Your Proxmox Is Ready :)))
