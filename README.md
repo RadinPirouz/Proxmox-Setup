@@ -30,3 +30,17 @@ sha512sum /etc/apt/trusted.gpg.d/proxmox-release-bookworm.gpg
 7da6fe34168adc6e479327ba517796d4702fa2f8b4f0a9833f5ea6e6b48f6507a6da403a274fe201595edc86a84463d50383d07f64bdde2e3658108db7d6dc87 /etc/apt/trusted.gpg.d/proxmox-release-bookworm.gpg`
 
 ![image](https://github.com/RadinPirouz/Proxmox-Setup/assets/75082987/4d0eef2c-8ec1-42a1-a9b6-b117a0976417)
+
+# Install ProxMox Kernel And Libs
+
+Step 1 : Install Kernel `apt install pve-kernel-5.15` (If You In Iran I Suggest Use VPN :) )
+
+![image](https://github.com/RadinPirouz/Proxmox-Setup/assets/75082987/3df8c09f-7b2a-4eef-97a3-d1c3bc92954e)
+
+Step 2 : Install Libs `apt install proxmox-ve postfix open-iscsi` 
+
+![Uploading image.png…]()
+
+
+Done Your Proxmox Is Ready :)))
+
