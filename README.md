@@ -46,3 +46,5 @@ Step 2 : Install Libs `apt install proxmox-ve postfix open-iscsi`
 
 Done Your Proxmox Is Ready :)))
 
+![image](https://github.com/RadinPirouz/Proxmox-Setup/assets/75082987/4476ae0b-4592-4566-91f8-95cb52e07c5d)
+
